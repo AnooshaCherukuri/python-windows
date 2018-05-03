@@ -12,3 +12,7 @@ The python module file that we download would be a .whl file or .tar.gz file. So
 we will install it with the command C:\Python27\Scripts pip install python-module-name
 
 ex: C:\Python27\Scripts\pip install os3-0.1.2.tar.gz
+
+After all the required modules are downloaded, we can run the python script using th following command:
+
+C:\Python27> python location-of-the-file\traversing-directories.py
